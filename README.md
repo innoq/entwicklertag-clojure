@@ -6,8 +6,7 @@
 * ein aktuelles JDK installieren (mindestens JDK 6)
 * das Clojure Build Tool [Leiningen](http://leiningen.org/#install) installieren
 * eine Clojure IDE installieren, wir werden beim Tutorial [Light Table](http://lighttable.com/) benutzen
-* optional schon mal das Beispielprojekt clonen: `git clone git@github.com:innoq/imagizer.git`
-* optional schon mal die Übungsaufgaben clonen: `git clone git@github.com:innoq/imagizer-exercise.git`
+* optional schon mal das Beispielprojekt clonen: `git clone git@github.com:innoq/imagizer-exercise.git`
 
 ## 4clojure.org
 
@@ -21,10 +20,6 @@ Auf [4clojure.org](http://4clojure.org) kann man im Browser Clojure Übungsaufga
 * [Bonus 1](http://www.4clojure.com/problem/20)
 * [Bonus 2](http://www.4clojure.com/problem/70)
 
-## Beispielprojekt
-
-[https://github.com/innoq/imagizer](https://github.com/innoq/imagizer)
-
-## Übungsaufgaben
+## Beispielprojekt mit Übungsaufgaben
 
 [https://github.com/innoq/imagizer-exercise](https://github.com/innoq/imagizer-exercise)
