@@ -1,6 +1,4 @@
-(ns intro.core
-  (:use clojure.repl
-        clojure.pprint))
+(ns intro.core)
 
                                         ; Skalare Datentypen
 
