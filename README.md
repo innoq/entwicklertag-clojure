@@ -1,8 +1,8 @@
-# Clojure beim Frankfurter Entwicklertag 2015
+# Clojure beim Frankfurter Entwicklertag
 
 ## Setup
 
-* dieses Repository clonen: `git clone https://github.com/innoq/entwicklertag-clojure`
+* dieses Repository clonen: `git clone git@github.com:innoq/entwicklertag-clojure.git`
 * ein aktuelles JDK installieren (mindestens JDK 6)
 * das Clojure Build Tool (Leiningen)[http://leiningen.org/#install] installieren
 * eine Clojure IDE installieren, wir werden beim Tutorial (Light Table)[http://lighttable.com/] benutzen
