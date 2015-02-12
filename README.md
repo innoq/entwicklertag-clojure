@@ -8,6 +8,10 @@
 * eine Clojure IDE installieren, wir werden beim Tutorial [Light Table](http://lighttable.com/) benutzen
 * optional schon mal das Beispielprojekt clonen: `git clone git@github.com:innoq/imagizer-exercise.git`
 
+## Cheat Sheet
+
+[http://clojure.org/cheatsheet](http://clojure.org/cheatsheet)
+
 ## 4clojure.org
 
 Auf [4clojure.org](http://4clojure.org) kann man im Browser Clojure Übungsaufgaben lösen. Hier eine Auswahl, die wir während des Tutorials bearbeiten werden:
