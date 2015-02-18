@@ -2,6 +2,7 @@
 
 ## Setup
 
+* ein [Git-Client](http://git-scm.com/downloads)
 * dieses Repository clonen: `git clone git@github.com:innoq/entwicklertag-clojure.git`
 * ein aktuelles JDK installieren (mindestens JDK 6)
 * das Clojure Build Tool [Leiningen](http://leiningen.org/#install) installieren
