@@ -15,15 +15,61 @@
 
 ## 4clojure.org
 
-Auf [4clojure.org](http://4clojure.org) kann man im Browser Clojure Übungsaufgaben lösen. Hier eine Auswahl, die wir während des Tutorials bearbeiten werden:
+Auf [4clojure.org](http://4clojure.org) kann man im Browser Übungsaufgaben lösen. Hier eine Auswahl, die wir während des Tutorials bearbeiten werden:
 
-* [Funktionen nutzen](http://www.4clojure.com/problem/14)
-* [Higher Order Functions 1](http://www.4clojure.com/problem/17)
-* [Higher Order Functions 2](http://www.4clojure.com/problem/18)
-* [Sequences 1](http://www.4clojure.com/problem/12)
-* [Sequences 2](http://www.4clojure.com/problem/13)
-* [Bonus 1](http://www.4clojure.com/problem/20)
-* [Bonus 2](http://www.4clojure.com/problem/70)
+### Grundlagen
+
+* [http://www.4clojure.com/problem/2]()
+* [http://www.4clojure.com/problem/12]()
+* [http://www.4clojure.com/problem/13]()
+
+### Funktionen nutzen und definieren
+
+* [http://www.4clojure.com/problem/14]()
+* [http://www.4clojure.com/problem/15]()
+* [http://www.4clojure.com/problem/16]()
+* [http://www.4clojure.com/problem/20]()
+
+### Higher-order Functions
+
+* [http://www.4clojure.com/problem/17]()
+* [http://www.4clojure.com/problem/18]()
+* [http://www.4clojure.com/problem/64]()
+* [http://www.4clojure.com/problem/25]()
+* [http://www.4clojure.com/problem/24]()
+* [http://www.4clojure.com/problem/143]()
+
+### Collections
+
+* [http://www.4clojure.com/problem/49]()
+* [http://www.4clojure.com/problem/27]()
+* [http://www.4clojure.com/problem/157]()
+* [http://www.4clojure.com/problem/55]()
+
+### Let
+
+* [http://www.4clojure.com/problem/35]()
+
+### Rekursion
+
+* [http://www.4clojure.com/problem/57]()
+* [http://www.4clojure.com/problem/42]()
+* [http://www.4clojure.com/problem/66]()
+* [http://www.4clojure.com/problem/22]()
+* [http://www.4clojure.com/problem/21]()
+* [http://www.4clojure.com/problem/118]()
+* [http://www.4clojure.com/problem/34]()
+* [http://www.4clojure.com/problem/40]()
+* [http://www.4clojure.com/problem/33]()
+* [http://www.4clojure.com/problem/23]()
+
+### Strings
+
+* [http://www.4clojure.com/problem/70]()
+
+### Java-Interop
+
+* [http://www.4clojure.com/problem/3]()
 
 ## Beispielprojekt mit Übungsaufgaben
 
