@@ -52,6 +52,10 @@
 ;; Syntax => (operator arg1 arg2 arg3)
 (+ 1 2 3)
 
+(count [1 2 3])
+
+(inc 5)
+
 (if true
   :foo
   :bar)
